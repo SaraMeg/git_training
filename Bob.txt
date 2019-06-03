@@ -6,3 +6,5 @@ Master Bob is apparently 5 commits away from the branch. I'm not sure how that h
 =======
 im curious how this rebase thing works.  so this change is to bobbybranch.
 >>>>>>> Bobby_Branch
+
+I'm editing Bobby on the website. 
