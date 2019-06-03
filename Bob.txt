@@ -1,3 +1,4 @@
 Hi! I'm Bobby. I'm new here.
 i'm making a second change because I obviously didnt follow directions right.
 changing bob on the master (???)
+im curious how this rebase thing works.  so this change is to bobbybranch.
