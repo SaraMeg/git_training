@@ -1,4 +1,8 @@
 Hi! I'm Bobby. I've been here for a while.
 i'm making a second change because I obviously didnt follow directions right.
 changing bob on the master (???)
+<<<<<<< HEAD
 Master Bob is apparently 5 commits away from the branch. I'm not sure how that happened but I'll look.
+=======
+im curious how this rebase thing works.  so this change is to bobbybranch.
+>>>>>>> Bobby_Branch
