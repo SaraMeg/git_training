@@ -1,4 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Now I'm adding to the file and hopefully on the branch..
-and I'm changing something to the branch again. 
-Alice gets another change for the rebasing thingermabob.
+And now I'm making a change to the repo here on the wbsite.
